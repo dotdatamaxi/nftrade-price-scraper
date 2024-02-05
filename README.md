@@ -14,14 +14,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository
-```bash
-git clone https://github.com/dotdatamaxi/nftrade-price-scraper.git
-```
+    ```bash
+    git clone https://github.com/dotdatamaxi/nftrade-price-scraper.git
+    ```
 
 1. Install the dependencies
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 ## Usage
 
