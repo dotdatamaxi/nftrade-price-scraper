@@ -1,0 +1,26 @@
+{
+  "name": "nftrade-price-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "ts-node-dev src/scrape.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.16",
+    "module-alias": "^2.2.3",
+    "puppeteer": "^21.10.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0"
+  },
+  "_moduleAliases": {
+    "@": "./src"
+  }
+}
